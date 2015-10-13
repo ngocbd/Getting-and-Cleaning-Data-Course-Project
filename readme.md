@@ -17,4 +17,4 @@ Extract it into the data directory under your R working directory.
 
 
 You can run R code run_analysis.R or source it. It will generate a text file named "HumanActivityRecognitionUsingSmartphones.txt". This is the required data set.
-This script need data.table library to run fine 
+This script need data.table library to run fine .
