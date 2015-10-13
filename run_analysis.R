@@ -1,5 +1,5 @@
 require(data.table)
-require(reshape2)
+
 
 #setwd("C:/Users/NgocBD/Getting-and-Cleaning-Data-Course-Project")
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
